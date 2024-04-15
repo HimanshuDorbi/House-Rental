@@ -11,12 +11,11 @@ This application allows users to browse and book houses for rent. Tenants can al
 - **Backend**:
   - Node.js
   - Express.js
-  - MongoDB
 
 - **Database**:
-  - MongoDB (You can replace it with any database of your choice)
+  - MongoDB 
 
-## Getting Started
+
 
 ### Prerequisites
 
